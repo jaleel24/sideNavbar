@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-.nav{
+/* .nav{
     @apply hover:bg-green-500 rounded-xl flex justify-center
 
-}
+} */

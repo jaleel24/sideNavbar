@@ -1,7 +1,15 @@
 module.exports = {
   content: ["*"],
   theme: {
-    extend: {},
+    //  colors:{
+    //     'farhana':'#3f3cbb'
+    //   },
+    extend: {
+      borderWidth:{
+        9: '9px',
+      },
+     
+    },
   },
   plugins: [],
 }
